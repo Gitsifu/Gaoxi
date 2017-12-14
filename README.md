@@ -20,3 +20,10 @@ root.password=jishimen2019
 
 用户名：guest，密码：guest 
 guest.password=jishimen2019
+
+-------
+
+
+文章6.2节中
+
+访问`localhost:10080`需要密码，密码在容器的`/var/jenkins_home/secrets/initialAdminPassword`这个文件中
