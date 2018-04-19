@@ -15,11 +15,9 @@ dubbo.admin.guest.password=jishimen2019
 
 配置文件的意思是：
 
-用户名：root，密码：admin 
-root.password=jishimen2019
+用户名：root，密码：jishimen2019
 
-用户名：guest，密码：guest 
-guest.password=jishimen2019
+用户名：guest，密码：jishimen2019
 
 -------
 
